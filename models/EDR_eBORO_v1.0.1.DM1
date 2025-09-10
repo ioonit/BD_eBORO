@@ -604,7 +604,7 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 51,new_data,0,0,0
 643,prospects-customer_files,0,0,0
 53,create_at,0,0,0
-54,Fecha y hora en que se registró la acción.,0,0,0
+54,Fecha y hora en que se registrÃ³ la acciÃ³n.,0,0,0
 55,TSZ,0,0,0
 56,customer_id,0,0,0
 648,"{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg;}}
@@ -616,7 +616,7 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 651,"",1,0,0
 60,ident_cardnumber,0,0,0
 652,"",1,0,0
-61,Número de cédula o identificación del cliente.,0,0,0
+61,NÃºmero de cÃ©dula o identificaciÃ³n del cliente.,0,0,0
 653,"",1,0,0
 62,names,0,0,0
 654,"",1,0,0
@@ -628,7 +628,7 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 657,"",1,0,0
 66,address,0,0,0
 658,"",1,0,0
-67,Dirección física del cliente.,0,0,0
+67,DirecciÃ³n fÃ­sica del cliente.,0,0,0
 659,"",1,0,0
 68,'Desconocido',0,0,0
 660,"",1,0,0
@@ -655,7 +655,7 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 \viewkind4\uc1\pard\lang1033\f0\fs17 Tabla intermedia por medio de la cual se determina que roles son los que tiene asignado un usuario\par
 }
 ",0,0,0
-74,Coordenada geográfica de latitud del cliente.,0,0,0
+74,Coordenada geogrÃ¡fica de latitud del cliente.,0,0,0
 666,"{\rtf1\ansi\ansicpg1252\deff0{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg 2;}}
 \viewkind4\uc1\pard\lang1033\f0\fs17 Almaena informaci\'f3n historica de las visitas que se han realizado al cliente durante el periodo de vigencia del cr\'e9dito \par
 }
@@ -664,10 +664,10 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 667,"",1,0,0
 76,longitude,0,0,0
 668,"",1,0,0
-77,Coordenada geográfica de longitud del cliente.,0,0,0
+77,Coordenada geogrÃ¡fica de longitud del cliente.,0,0,0
 669,"",1,0,0
 78,active,0,0,0
-79,Indica si el cliente está activo (1) o inactivo (0).,0,0,0
+79,Indica si el cliente estÃ¡ activo (1) o inactivo (0).,0,0,0
 671,"",1,0,0
 80,1,0,0,0
 672,"",1,0,0
@@ -685,16 +685,16 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 680,"",1,0,0
 89,photo_business_url,0,0,0
 92,code_employee,0,0,0
-93,Código único de referencia para el empleado dentro del sistema.,0,0,0
+93,CÃ³digo Ãºnico de referencia para el empleado dentro del sistema.,0,0,0
 94,Nombres del empleado.,0,0,0
 95,surname,0,0,0
 96,Apellidos del empleado.,0,0,0
 97,phone,0,0,0
-98,Número de teléfono del empleado.,0,0,0
+98,NÃºmero de telÃ©fono del empleado.,0,0,0
 99,rol_id,0,0,0
 100,role_id,0,0,0
-102,Fecha y hora de creación del registro del empleado.,0,0,0
-103,Indica si el empleado está activo (1) o inactivo (0).,0,0,0
+102,Fecha y hora de creaciÃ³n del registro del empleado.,0,0,0
+103,Indica si el empleado estÃ¡ activo (1) o inactivo (0).,0,0,0
 104,location_id,0,0,0
 107,visit_number,0,0,0
 111,date_at,0,0,0
@@ -710,17 +710,17 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 142,route_id,0,0,0
 145,route_code,0,0,0
 147,Nombre de la ruta asignada.,0,0,0
-148,Descripción general o propósito de la ruta asignada.,0,0,0
+148,DescripciÃ³n general o propÃ³sito de la ruta asignada.,0,0,0
 149,priority,0,0,0
 150,Nivel de prioridad asignado a la ruta.,0,0,0
-151,Fecha y hora en que se creó el registro de la ruta.,0,0,0
-152,Indica si la ruta está activa (1) o inactiva (0).,0,0,0
+151,Fecha y hora en que se creÃ³ el registro de la ruta.,0,0,0
+152,Indica si la ruta estÃ¡ activa (1) o inactiva (0).,0,0,0
 153,route_status_id,0,0,0
 154,programmed_at,0,0,0
 155,D,0,0,0
 156,SER,0,0,0
 157,waypoint_id,0,0,0
-158,Identificador único del punto de la ruta.,0,0,0
+158,Identificador Ãºnico del punto de la ruta.,0,0,0
 160,Coordenada de latitud del punto de la ruta.,0,0,0
 161,Coordenada de longitud del punto de la ruta.,0,0,0
 162,order_number,0,0,0
@@ -741,14 +741,14 @@ String_Id,Data,Overflow,ConstantString,Row_Time_Stamp
 178,TS,0,0,0
 180,external_id,0,0,0
 183,username,0,0,0
-184,Nombre de usuario utilizado para iniciar sesión.,0,0,0
+184,Nombre de usuario utilizado para iniciar sesiÃ³n.,0,0,0
 185,Fecha y hora en que fue creado el usuario.,0,0,0
-186,Indica si el usuario está activo (1) o inactivo (0).,0,0,0
+186,Indica si el usuario estÃ¡ activo (1) o inactivo (0).,0,0,0
 187,password_hash,0,0,0
-188,Salt utilizado para el hash de la contraseña del usuario para autenticación.,0,0,0
+188,Salt utilizado para el hash de la contraseÃ±a del usuario para autenticaciÃ³n.,0,0,0
 189,LBN,0,0,0
 190,hash_salt,0,0,0
-191,Hash de la contraseña del usuario para autenticación.,0,0,0
+191,Hash de la contraseÃ±a del usuario para autenticaciÃ³n.,0,0,0
 192,waypoint_history_id,0,0,0
 193,pk_audit_id,0,0,0
 194,Y,0,0,0
@@ -1239,7 +1239,7 @@ String_Id,Data,Row_Time_Stamp
 
 Project:  Base de datos apps eBORO
 
-Description: Diseño lógico de base de datos a implementar para el uso de la aplicación eBORO
+Description: DiseÃ±o lÃ³gico de base de datos a implementar para el uso de la aplicaciÃ³n eBORO
 
 Version: 1.1.0
 
@@ -1247,7 +1247,7 @@ Date: 30/08/2025
 
 Update: 09/09/2025
 
-prepared by: Lawdee N. Narváez <lawdee.narvaez@ionn.it>
+prepared by: Lawdee N. NarvÃ¡ez <lawdee.narvaez@ionn.it>
 ",0
 651,"CREATE TABLE public.audit_logs(
     audit_id         serial,
