@@ -15,7 +15,7 @@ El objetivo principal de este espacio es centralizar y versionar todos los scrip
 - La inserción de datos iniciales necesarios para el funcionamiento del sistema.
 - Las actualizaciones estructurales que se vayan aplicando durante el desarrollo.
 
-## 📂 Organización
+## Organización
 
 Cada script debe estar claramente nombrado y fechado, siguiendo una convención que facilite su identificación y trazabilidad. Ejemplo:
 
