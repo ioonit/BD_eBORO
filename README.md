@@ -48,7 +48,7 @@
 
 # Uso del repositorio
   1. Clonar el repositorio
-    git clone https://github.com/<organizacion>/<repositorio>.git
+     https://github.com/ioonit/BD_eBORO.git    
   2. Abrir el archivo .dm1 en ER-STUDIO para modificar el diseño.
   3.aplicar o generar cambios en la base de datos utilizando el script SQL generado /script/
 
